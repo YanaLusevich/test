@@ -5,9 +5,9 @@
 ## Personal profile  
 
 ## Areas of expertise  
-*Git  
-*HTML  
-*CSS   
+* Git  
+* HTML  
+* CSS   
 ## Work experience  
 1. TeachMeSkills
 1. RS School  
