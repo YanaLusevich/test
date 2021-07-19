@@ -23,5 +23,6 @@ In IT sphere, I'm interested in the web, I studied information myself, I have ba
 1. Minsk State Medical College - 2012  
 1. TeachMeSkills, course "HTML + CSS", qualification: junior HTML-layout designer - 2016  
 1. TeachMeSkills, course "JavaScript", qualification: junior Front-end Developer - 2017  
+1. RS School, course "JS/FE Pre-School" - 2021  
 ## Level of english  
 *A1*
