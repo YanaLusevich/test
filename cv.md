@@ -18,7 +18,7 @@ In IT sphere, I'm interested in the web, I studied information myself, I have ba
 1. TeachMeSkills
 1. RS School  
 ## My project  
-[Example](file:///D:/HTML/Диплом/index.html#about)
+[Example]: (file:///D:/HTML/Диплом/index.html#about)  
 ## Education history  
 1. Minsk State Medical College - 2012  
 1. TeachMeSkills, course "HTML + CSS", qualification: junior HTML-layout designer - 2016  
