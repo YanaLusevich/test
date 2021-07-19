@@ -18,7 +18,7 @@ In IT sphere, I'm interested in the web, I studied information myself, I have ba
 1. TeachMeSkills
 1. RS School  
 ## My project  
-[Example] (https://www.volkswagen-minsk.by/models/new-polo/?utm_source=google&utm_medium=cpc&utm_campaign=VW_Polo_Local5&gclid=Cj0KCQjwraqHBhDsARIsAKuGZeG4dHJ3NodHsOs4Sh7s5ruew9O2r6IHlvUzXOBVN7MdVpEsIjlGunUaAphWEALw_wcB  
+[Example] ()  
 ## Education history  
 1. Minsk State Medical College - 2012  
 1. TeachMeSkills, course "HTML + CSS", qualification: junior HTML-layout designer - 2016  
