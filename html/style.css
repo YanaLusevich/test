@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    background-color: beige;
+}
+h2 {
+    color: saddlebrown;
+    padding: 10px;
+    border: #9e9e9e solid 1px;
+    background-color: #7fffd470;
+}
+.bg {
+    background-color: #7fffd470;
+    height: 300px;
+}
+.photo {
+    width: 300px;
+    height: 300px;
+    margin-left: 260px;
+    margin-top: 50px;
+    position: absolute;
+}
+.qal {
+    margin-left: 620px;
+    padding-top: 150px;
+    font-size: 26px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.name {
+    margin-left: 620px;
+    font-size: 36px;
+    margin-top: 0px;
+}
+.city-year {
+    text-align: center;
+}
+.footer {
+    margin-left: 30px;
+    padding-top: 20px;
+}
+.rsschool {
+    margin-bottom: 15px;
+}
+.logo_github {
+    width: 60px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.accounmt_github {
+    position: absolute;
+    padding-top: 20px;
+    padding-left: 57px
+}
+.logo_rsschool {
+    width: 113px;
+    padding-right: 10px;
+}
+.link_rs_logo {
+    position: absolute;
+}
+.city_year {
+    width: 100px;
+    margin: auto;
+}
+/*.left_column {
+    width: 600px;
+    height: auto;
+    float: left;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.right_column {
+    width: 600px;
+    padding-left: 15px;
+    float: right;
+    padding-top: 50px;
+}*/
+.columns {
+    width: 800px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 16px;
+    line-height: 23px;
+    margin: 0;
+}
+li {
+    line-height: 23px;
+}
+footer {
+    background-color: #7fffd470;
+}
