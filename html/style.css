@@ -15,19 +15,18 @@ h2 {
 .photo {
     width: 300px;
     height: 300px;
-    margin-left: 260px;
     margin-top: 50px;
     position: absolute;
 }
 .qal {
-    margin-left: 620px;
+    margin-left: 340px;
     padding-top: 150px;
     font-size: 26px;
     margin-top: 0px;
     margin-bottom: 10px;
 }
 .name {
-    margin-left: 620px;
+    margin-left: 340px;
     font-size: 36px;
     margin-top: 0px;
 }
@@ -39,7 +38,8 @@ h2 {
     padding-top: 20px;
 }
 .rsschool {
-    margin-bottom: 15px;
+    width: 800px;
+    margin: auto;
 }
 .logo_github {
     width: 60px;
@@ -62,20 +62,10 @@ h2 {
     width: 100px;
     margin: auto;
 }
-/*.left_column {
-    width: 600px;
-    height: auto;
-    float: left;
-    padding-top: 50px;
-    padding-left: 15px;
-    padding-right: 15px;
+.header {
+    width: 800px;
+    margin: auto;
 }
-.right_column {
-    width: 600px;
-    padding-left: 15px;
-    float: right;
-    padding-top: 50px;
-}*/
 .columns {
     width: 800px;
     margin: auto;
@@ -92,4 +82,8 @@ li {
 }
 footer {
     background-color: #7fffd470;
+}
+.footer_logo {
+    width: 800px;
+    margin: auto;
 }
